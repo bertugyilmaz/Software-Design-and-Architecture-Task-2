@@ -13,7 +13,7 @@ namespace Adapter
 
         }
 
-        public void Walk()
+        public void Run()
         {
 
         }
