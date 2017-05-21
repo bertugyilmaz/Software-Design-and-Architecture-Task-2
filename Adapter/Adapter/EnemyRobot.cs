@@ -6,21 +6,21 @@ using System.Threading.Tasks;
 
 namespace Adapter
 {
-    public class EnemyRobot : IEnemy
+    public class EnemyRobot 
     {
-        public void enemyName()
+        public void Punch()
         {
-            throw new NotImplementedException();
+
         }
 
-        public void run()
+        public void Walk()
         {
-            throw new NotImplementedException();
+
         }
 
-        public void useGun()
+        public void RobotName(String name)
         {
-            throw new NotImplementedException();
+
         }
     }
 }

@@ -10,7 +10,7 @@ namespace Adapter
     {
         void useGun();
         void run();
-        void enemyName();
+        void enemyName(String name);
 
     }
 }
