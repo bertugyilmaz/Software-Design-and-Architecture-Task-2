@@ -12,6 +12,5 @@ namespace Adapter
         void run();
         void enemyName();
 
-
     }
 }
